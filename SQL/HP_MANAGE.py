@@ -4,8 +4,8 @@ from prettytable import PrettyTable
 # Your MySQL connection information
 host = "127.0.0.1"
 user = "root"
-password = "ygtd4573"
-database = "HP_MANAGE"
+password = "********"
+database = "*********"
 
 # Connect to MySQL database using mysql-connector-python
 connection = mysql.connector.connect(
